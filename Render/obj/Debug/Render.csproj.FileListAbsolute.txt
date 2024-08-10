@@ -1,0 +1,47 @@
+D:\Projects\CGCource\Render\Render\bin\Debug\Render.exe.config
+D:\Projects\CGCource\Render\Render\bin\Debug\Render.exe
+D:\Projects\CGCource\Render\Render\bin\Debug\Render.pdb
+D:\Projects\CGCource\Render\Render\bin\Debug\OpenTK.dll
+D:\Projects\CGCource\Render\Render\bin\Debug\OpenTK.GLControl.dll
+D:\Projects\CGCource\Render\Render\bin\Debug\OpenTK.pdb
+D:\Projects\CGCource\Render\Render\bin\Debug\OpenTK.xml
+D:\Projects\CGCource\Render\Render\bin\Debug\OpenTK.GLControl.pdb
+D:\Projects\CGCource\Render\Render\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\CGCource\Render\Render\obj\Debug\Render.csproj.AssemblyReference.cache
+D:\Projects\CGCource\Render\Render\obj\Debug\Render.csproj.SuggestedBindingRedirects.cache
+D:\Projects\CGCource\Render\Render\obj\Debug\Render.Properties.Resources.resources
+D:\Projects\CGCource\Render\Render\obj\Debug\Render.csproj.GenerateResource.cache
+D:\Projects\CGCource\Render\Render\obj\Debug\Render.csproj.CoreCompileInputs.cache
+D:\Projects\CGCource\Render\Render\obj\Debug\Render.csproj.CopyComplete
+D:\Projects\CGCource\Render\Render\obj\Debug\Render.exe
+D:\Projects\CGCource\Render\Render\obj\Debug\Render.pdb
+D:\Projects\CGCource\Render\Render\bin\Debug\ObjParser.dll
+D:\Projects\CGCource\Render\Render\bin\Debug\ObjParser.pdb
+D:\Projects\CGCource\Render\Render\obj\Debug\Render.MainForm.resources
+D:\Projects\CGCource\Task6\Render\bin\Debug\Render.exe.config
+D:\Projects\CGCource\Task6\Render\bin\Debug\Render.exe
+D:\Projects\CGCource\Task6\Render\bin\Debug\Render.pdb
+D:\Projects\CGCource\Task6\Render\bin\Debug\OpenTK.dll
+D:\Projects\CGCource\Task6\Render\bin\Debug\OpenTK.GLControl.dll
+D:\Projects\CGCource\Task6\Render\bin\Debug\OpenTK.pdb
+D:\Projects\CGCource\Task6\Render\bin\Debug\OpenTK.xml
+D:\Projects\CGCource\Task6\Render\bin\Debug\OpenTK.GLControl.pdb
+D:\Projects\CGCource\Task6\Render\bin\Debug\OpenTK.GLControl.xml
+D:\Projects\CGCource\Task6\Render\obj\Debug\Render.csproj.AssemblyReference.cache
+D:\Projects\CGCource\Task6\Render\obj\Debug\Render.csproj.SuggestedBindingRedirects.cache
+D:\Projects\CGCource\Task6\Render\obj\Debug\Render.MainForm.resources
+D:\Projects\CGCource\Task6\Render\obj\Debug\Render.Properties.Resources.resources
+D:\Projects\CGCource\Task6\Render\obj\Debug\Render.csproj.GenerateResource.cache
+D:\Projects\CGCource\Task6\Render\obj\Debug\Render.csproj.CoreCompileInputs.cache
+D:\Projects\CGCource\Task6\Render\obj\Debug\Render.csproj.CopyComplete
+D:\Projects\CGCource\Task6\Render\obj\Debug\Render.exe
+D:\Projects\CGCource\Task6\Render\obj\Debug\Render.pdb
+D:\Projects\CGCource\Task6\Render\obj\Debug\Render.ShapeSettings.ConeSettingsTab.resources
+C:\Users\timur\OneDrive\Рабочий стол\x\лабы\6)Task6\Render\obj\Debug\Render.csproj.AssemblyReference.cache
+C:\Users\timur\OneDrive\Рабочий стол\x\лабы\6)Task6\Render\obj\Debug\Render.MainForm.resources
+C:\Users\timur\OneDrive\Рабочий стол\x\лабы\6)Task6\Render\obj\Debug\Render.Properties.Resources.resources
+C:\Users\timur\OneDrive\Рабочий стол\x\лабы\6)Task6\Render\obj\Debug\Render.ShapeSettings.ConeSettingsTab.resources
+C:\Users\timur\OneDrive\Рабочий стол\x\лабы\6)Task6\Render\obj\Debug\Render.csproj.GenerateResource.cache
+C:\Users\timur\OneDrive\Рабочий стол\x\лабы\6)Task6\Render\obj\Debug\Render.csproj.CoreCompileInputs.cache
+C:\Users\timur\OneDrive\Рабочий стол\x\лабы\6)Task6\Render\obj\Debug\Render.exe
+C:\Users\timur\OneDrive\Рабочий стол\x\лабы\6)Task6\Render\obj\Debug\Render.pdb
